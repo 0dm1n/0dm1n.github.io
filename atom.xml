@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://0dm1n.github.io</id>
+    <title>Blue</title>
+    <updated>2022-06-30T02:13:49.065Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://0dm1n.github.io"/>
+    <link rel="self" href="https://0dm1n.github.io/atom.xml"/>
+    <subtitle>断墨寻径</subtitle>
+    <logo>https://0dm1n.github.io/images/avatar.png</logo>
+    <icon>https://0dm1n.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Blue</rights>
+    <entry>
+        <title type="html"><![CDATA[This is my blog    0dm1n]]></title>
+        <id>https://0dm1n.github.io/post/ce-shi/</id>
+        <link href="https://0dm1n.github.io/post/ce-shi/">
+        </link>
+        <updated>2022-06-24T13:16:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://0dm1n.github.io/post/hello-gridea/</id>
+        <link href="https://0dm1n.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
